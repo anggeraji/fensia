@@ -1,0 +1,44 @@
+body {
+  background-color: #f2e6ff;
+  font-family: 'Poppins', sans-serif;
+}
+
+#valentine-message {
+  text-align: center;
+  margin: 50px auto;
+  padding: 20px;
+  width: 50%;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 36px;
+  color: red;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+#valentine-button {
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  text-decoration: none;
+  cursor: pointer;
+}
